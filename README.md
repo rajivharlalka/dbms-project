@@ -24,7 +24,7 @@ The tech stack used in this project includes:
 
 To set up the project locally, follow these steps:
 ```bash
-Clone the repository: git clone https://github.com/your-username/college-erp.git
+Clone the repository: git clone https://github.com/rajivharlalka/dbms-project.git
 Change directory to the project root: cd college-erp
 Create a virtual environment: python -m venv venv
 ```
@@ -44,7 +44,7 @@ Start the development server: python manage.py runserver
 If you'd like to contribute to the project, please follow these steps:
 
 - Fork the project repository
-- Clone your forked repository: git clone https://github.com/your-username/college-erp.git
+- Clone your forked repository: git clone https://github.com/rajivharlalka/dbms-project.git
 - Create a new branch for your changes: git checkout -b feature/your-feature-name
 - Make the necessary changes to the codebase
 - Push your changes to your forked repository: git push origin feature/your-feature-name
