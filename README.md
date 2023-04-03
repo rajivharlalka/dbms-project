@@ -11,7 +11,7 @@ This is a college ERP (Enterprise Resource Planning) system built using the Djan
 Test Deployment Link: https://erp.rajivharlalka.tech  (may require VPN on IIT KGP internet)
 
 ER Diagram: 
-![image](./assets/dbms-lab.jpg)
+![image](dbms-lab.jpg)
 
 The tech stack used in this project includes:
 
